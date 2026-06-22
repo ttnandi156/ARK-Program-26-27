@@ -32,22 +32,6 @@ const overleafLinks = {
 };
 ```
 
-## Hosting
-
-This website can be hosted on GitHub Pages. Enable it in repository settings:
-1. Go to Settings → Pages
-2. Select `main` branch as source
-3. The site will be available at `https://ttnandi156.github.io/ARK-Program-26-27/`
-
-## File Structure
-
-```
-ARK-Program-26-27/
-├── index.html       # Main webpage structure
-├── styles.css       # Website styling
-├── script.js        # Link management and interactivity
-└── README.md        # This file
-```
 
 ## Notes
 
